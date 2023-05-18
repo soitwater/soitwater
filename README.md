@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 > 📦 101.3 kB Used in GitHub's Storage 
  > 
-> 🏆 194 Contributions in the Year 2023
+> 🏆 195 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -15,27 +15,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                127 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-🌆 Daytime                183 commits         ████████░░░░░░░░░░░░░░░░░   32.68 % 
-🌃 Evening                231 commits         ██████████░░░░░░░░░░░░░░░   41.25 % 
-🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Tuesday                  103 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Thursday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Friday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Saturday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -44,13 +23,7 @@ Sunday                   49 commits          ██░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -66,7 +39,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2023 09:15:35 UTC
+ Last Updated on 18/05/2023 09:28:49 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
