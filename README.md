@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C524%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C528%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 345.5 kB Used in GitHub's Storage 
- > 
-> 🏆 66 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,11 +19,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 47 mins      ███████████░░░░░░░░░░░░░░   44.34 % 
-Vue.js                   7 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-TypeScript               5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-JavaScript               4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Markdown                 12 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.67 % 
+Vue.js                   8 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+TypeScript               5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+JavaScript               3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -40,7 +38,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2024 18:39:12 UTC
+ Last Updated on 30/05/2024 18:40:53 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
