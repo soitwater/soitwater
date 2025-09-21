@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C551%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 379.2 kB Used in GitHub's Storage 
+> 📦 388.8 kB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -13,6 +15,18 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue.js                   19 hrs 49 mins      ███████████████████░░░░░░   74.77 % 
+JavaScript               3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Markdown                 2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -25,7 +39,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 18:42:56 UTC
+ Last Updated on 21/09/2025 18:45:19 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
