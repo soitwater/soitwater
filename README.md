@@ -5,9 +5,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 540.5 kB Used in GitHub's Storage 
+> 📦 552.7 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2025
+> 🏆 34 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,9 +21,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 41 mins       ████████████████████░░░░░   78.56 % 
-Vue.js                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -38,7 +36,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2025 18:49:23 UTC
+ Last Updated on 08/10/2025 18:50:18 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
