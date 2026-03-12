@@ -21,7 +21,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               █████████████████████░░░░   83.52 % 
+Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -36,7 +37,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2026 19:25:20 UTC
+ Last Updated on 12/03/2026 19:25:00 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
