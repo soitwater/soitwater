@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C004%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C005%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -21,8 +21,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 2 mins         ███████████████░░░░░░░░░░   60.57 % 
-Markdown                 40 mins             ██████████░░░░░░░░░░░░░░░   39.43 % 
+Markdown                 4 hrs 51 mins       ███████████████████████░░   93.69 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -37,7 +37,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2026 19:35:22 UTC
+ Last Updated on 03/05/2026 19:34:07 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
