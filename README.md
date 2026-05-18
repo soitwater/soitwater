@@ -5,14 +5,24 @@
 
 > 📦 812.8 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2026
+> 🏆 7 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 17 hrs 3 mins       █████████████████████████   99.97 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -25,7 +35,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 19:45:33 UTC
+ Last Updated on 18/05/2026 20:15:36 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
