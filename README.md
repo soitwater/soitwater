@@ -1,9 +1,11 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C059%20hrs%205%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 812.8 kB Used in GitHub's Storage 
+> 📦 813.3 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2026
  > 
@@ -16,16 +18,16 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ████████████████░░░░░░░░░   63.64 % 
-Vue                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               8 repos             █████████████████░░░░░░░░   66.67 % 
+Vue                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 23/05/2026 19:44:24 UTC
+ Last Updated on 24/05/2026 19:47:14 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
