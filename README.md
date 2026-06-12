@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C091%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C094%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 814.4 kB Used in GitHub's Storage 
+> 📦 814.3 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2026
+> 🏆 20 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,8 +21,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 22 mins       ████████████████████░░░░░   80.82 % 
-HTML                     1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Markdown                 9 hrs 59 mins       █████████████████████░░░░   83.41 % 
+HTML                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -38,7 +38,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 21:01:56 UTC
+ Last Updated on 12/06/2026 20:36:58 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
