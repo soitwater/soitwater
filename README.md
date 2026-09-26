@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C135%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C139%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2045%20mins-blue?style=flat)
 
@@ -23,11 +23,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 40 mins       ██████████████████████░░░   89.29 % 
-Java                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 14 hrs 7 mins       ███████████████████████░░   92.41 % 
+Java                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -49,7 +49,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:46:05 UTC
+ Last Updated on 26/09/2026 21:25:09 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
