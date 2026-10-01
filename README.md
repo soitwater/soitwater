@@ -9,7 +9,7 @@
 
 > 📦 814.9 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,8 +23,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 hrs 1 min        █████████████████████████   99.90 % 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Markdown                 23 hrs 51 mins      █████████████████████████   98.74 % 
+PowerShell               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+M3U                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -47,7 +49,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:31:07 UTC
+ Last Updated on 01/10/2026 22:51:17 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
