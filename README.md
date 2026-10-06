@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C159%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C159%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,11 +23,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 52 mins       ████████████████████████░   95.77 % 
-PowerShell               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-M3U                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Markdown                 3 hrs 20 mins       ███████████████████████░░   90.56 % 
+PowerShell               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+M3U                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -49,7 +49,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:15:47 UTC
+ Last Updated on 06/10/2026 22:44:55 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
