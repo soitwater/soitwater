@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C168%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C169%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2045%20mins-blue?style=flat)
 
@@ -23,10 +23,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 26 mins       █████████████████████░░░░   85.48 % 
-PowerShell               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Markdown                 2 hrs 34 mins       ████████████████████░░░░░   78.78 % 
+Text                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -48,7 +48,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 20:51:38 UTC
+ Last Updated on 18/10/2026 20:58:24 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
