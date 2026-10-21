@@ -23,11 +23,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 59 mins        █████████████████░░░░░░░░   67.52 % 
-Text                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 1 hr 50 mins        ██████████████░░░░░░░░░░░   57.45 % 
+Text                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+PowerShell               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -49,7 +49,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:48:13 UTC
+ Last Updated on 21/10/2026 21:55:33 UTC
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
